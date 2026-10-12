@@ -3486,6 +3486,32 @@
       "path": "plugins/lnpl-mcp",
       "ref": "main"
     }
+  },
+  {
+    "name": "oh-my-claudeagent",
+    "description": "A Claude Code plugin that plans work, hands each task to a specialist agent, and checks it was verified.",
+    "version": "3.0.0",
+    "author": {
+      "name": "UtsavBalar1231",
+      "url": "https://github.com/UtsavBalar1231"
+    },
+    "homepage": "https://github.com/UtsavBalar1231/oh-my-claudeagent",
+    "repository": "https://github.com/UtsavBalar1231/oh-my-claudeagent",
+    "license": "MIT",
+    "keywords": [
+      "agents",
+      "orchestration",
+      "multi-agent",
+      "planning",
+      "delegation",
+      "parallel-execution"
+    ],
+    "category": "orchestration",
+    "source": {
+      "source": "github",
+      "repo": "UtsavBalar1231/oh-my-claudeagent",
+      "ref": "plugin"
+    }
   }
   ]
 }
