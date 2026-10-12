@@ -3486,6 +3486,38 @@
       "path": "plugins/lnpl-mcp",
       "ref": "main"
     }
+  },
+  {
+    "name": "kernel-development-skills",
+    "description": "Kernel Field Guide: Linux kernel development the way experienced kernel engineers work: driver code and teardown order, devicetree bindings and DTS, Kconfig, debugging by symptom, KUnit and kselftest, patch review and submission, regressions and bot reports, and stable, LTS, and vendor kernel trees.",
+    "version": "0.4.3",
+    "author": {
+      "name": "utsavbalar1231",
+      "url": "https://github.com/UtsavBalar1231"
+    },
+    "homepage": "https://github.com/UtsavBalar1231/kernel-development-skills",
+    "repository": "https://github.com/UtsavBalar1231/kernel-development-skills",
+    "license": "MIT",
+    "keywords": [
+      "linux-kernel",
+      "kernel-drivers",
+      "devicetree",
+      "kconfig",
+      "debugging",
+      "kunit",
+      "kselftest",
+      "patch-submission",
+      "stable",
+      "lts"
+    ],
+    "category": "development",
+    "source": {
+      "source": "git-subdir",
+      "url": "https://github.com/UtsavBalar1231/kernel-development-skills.git",
+      "path": "plugins/kernel-development-skills",
+      "ref": "v0.4.3",
+      "sha": "62eedd7b6ea6acc862d66a7afc08c253a4a5da1c"
+    }
   }
   ]
 }
